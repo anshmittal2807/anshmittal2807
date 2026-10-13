@@ -17,5 +17,7 @@ Hi, I'm Ansh 👋<br><br>Backend-focused developer passionate about building sca
 
 ---
 [![](https://komarev.com/ghpvc/?username=anshmittal2807&icon=0&color=0)](https://visitcount.itsvg.in)
+[![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
